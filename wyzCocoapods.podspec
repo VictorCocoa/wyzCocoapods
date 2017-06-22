@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
 #
 
 s.name         = "wyzCocoapods"
-s.version      = "0.0.1"
+s.version      = "0.0.2"
 s.summary      = "Learn using myPod"
 
 # This description is used to generate tags and improve search results.
@@ -80,7 +80,7 @@ s.ios.deployment_target = "8.0"
 #  Supports git, hg, bzr, svn and HTTP.
 #
 
-s.source       = { :git => "https://github.com/VictorCocoa/wyzCocoapods.git", :tag => "0.0.1" }
+s.source       = { :git => "https://github.com/VictorCocoa/wyzCocoapods.git", :tag => "0.0.2" }
 
 
 # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
